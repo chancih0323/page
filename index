@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tw">
+ <head>
+	<meta charset="utf-8"> 
+	<title>千慈の文創空間</title>
+	<meta name="description" content="文創空間/3D列印/大數據分析">
+	<link rel="stylesheet" href='style.css'>
+ </head>
+ <h1>千慈の小天地</h1>
+<nav class="navigation">
+ <ul>
+ <li><a href="#profile">自我介紹</a></li>
+ <li><a href="#concert">個人作品</a></li>
+ <li><a href="https://chancih0323.github.io/web/">歷年專案計畫</a></li>
+ <li><a href="https://melodyu0757016.github.io/meldy/books.xml"target=_blank">收藏的書單</a></li>
+ <li><a href="https://melodyu0757016.github.io/form/951form.html"target=_blank">表單設計</a></li>
+ <li><a href='https://ccdm.nuu.edu.tw/' target="_blank">文創系</a></li>
+ <li><a href='https://www.nuu.edu.tw/' target="_blank">聯合大學</a></li>
+ <ul>
+ </nav>
+</header>
+
+<main>
+	<div class="mainvisual">
+	<center><img src="img/mainvisual.JPG" alt='主視覺圖片' width='500' height='442'</center>
+	</div>
+	<article id='profile'>
+	<div class='inner'>
+	<h1>♡自我介紹♡</h1>
+	<p>大家好!我是曾千慈!鄉下來的桃園人，住在美麗的大溪區♡我家真的沒有在賣豆干啦!</p>
+	<p>喜歡畫畫、彈吉他、轉魔方、打LOL還有最喜歡哈士奇了!對不起我不喜歡吉娃娃ಠ_ಠ</p>
+	<center><p>(っ´▽`)っ</p></center>
+	</div>
+	</article>
+	
+<section>
+<center>
+<h2>♡個人資料♡</h2>
+<table>
+<tr>
+<th>現職</th>
+<td>國立聯合大學 - 文化創意與數位行銷學系學生</td>
+</tr>
+<tr>
+<th>學歷</th>
+<td>聯合大學文創系、勤益科大應英系、新興高中多媒體設計科</td>
+</tr>
+<tr>
+<th>興趣</th>
+<td>畫畫、睡覺、打lol、嘗試新事物</td>
+</tr>
+<tr>
+<th>喜好</th>
+<td>哈士奇、狐狸、火鍋!、肉</td>
+</tr>
+</table>
+</center>
+</section>
+		<article id='concert'>
+		<div class='inner'>
+		<h2>♡個人作品♡</h2>
+		 <p><li><a href="https://www.instagram.com/c0323ch/">IG特效製作</a></li></p>
+		 <p><li><a href="https://www.instagram.com/p/CABTBXgjaWh/?utm_source=ig_web_copy_link">系上徽章設計</a></li></p>	
+		
+<section>
+	<h2>♡出遊日記♡</h2>
+        <section class="performer">
+	<h3>忘憂谷</h3>
+        <img src="img/wyg.jpg" width='300' height='400'>
+        
+	<p>位於基隆的美景</p>
+</section>
+	<section class="performer">
+	<h3>宜蘭童玩節</h3>
+	<img src="img/yee.jpg" width='300' height='350'>
+	<h4><li><a href='https://www.yicfff.tw/' target="_blank">2020宜蘭星光水樂園</a></li></h4>
+</section>
+        <section class="performer">
+	<h3>鐵工大家庭</h3>
+        <img src="img/metal.jpg" width='396' height='188'>
+	<h4><li><a href='https://www.facebook.com/MetalQCafe/' target="_blank">鐵工所</a></li></h4>
+        <p>台中包棟出遊篇</p>
+</section>
+		<h2>♡個人著作♡</h2>
+                <ol> 
+                	<li>IG特效製作</li>
+                	<li>系徽設計</li>
+                </ol>
+</section>
+</article>
+                
+
+
+</main>
+<footer>
+<center><p class='pagetop'><a href='#top'>回到頁首</a></p></center>
+<center><p class='copyright'><small>&copy;copyRight 2020文創系</small></p></center>
+</footer>
+    </body>
+</html>
